@@ -1,0 +1,2 @@
+CustomerName, Product, Quantity, Date, Street, City, State, Zip, Card, CardNo, ExpirationDate
+Amiton Tonya, ScreenSaver, 5, 3/27/2015, Novaya, Kiev, Ukraine, 04080, MasterCard, 111222333444, 8/3/2020
